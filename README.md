@@ -1,4 +1,4 @@
-# https://kuninn.github.io/PrimeToko/
+# 'https://kuninn.github.io/PrimeToko/'
 # PrimeToko
 
 # Berikut Adalah Tampilan Statis Dari Website Toko Kami
